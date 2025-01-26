@@ -1,0 +1,21 @@
+title: Aksisoft Media
+email: aksisoftsby@gmail.com
+description: Digital Branding professional
+long_description: Jasa SEO, pembuatan website, backup website, SMM, Email marketing, Lead Generation
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://aksisoftsby.github.io/digitalagency25"
+
+kontak:
+  hp: 0813-3520-6389
+  wa: 0813-3520-6389
+  linkwa: https://wa.me/6281335206189
+  alamat: Jl. Ngagel Rejo Surabaya
+  email: aksisoftsby@gmail.com
+  googlemapsurl: https://goo.gl/maps/2YSaEa71xdtUMNtm6
+  googlemapsembed: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1978.7582779945521!2d112.7405303129521!3d-7.295711198897492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fbbd10d06185%3A0x136207b9d14bec5c!2sJl.%20Darmokali%20Tugu%20No.28%2C%20Darmo%2C%20Kec.%20Wonokromo%2C%20Kota%20SBY%2C%20Jawa%20Timur%2060241!5e0!3m2!1sen!2sid!4v1578995478387!5m2!1sen!2sid" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-avatar
+  - jekyll-seo-tag

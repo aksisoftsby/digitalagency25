@@ -1,0 +1,274 @@
+- nama: Home
+  slug: /
+  is_active: index
+- nama: Kalender
+  slug: kalender
+  is_active: kalender
+  sub:
+  - nama: Kalender Poster
+    slug: kalender/kalender-poster
+    is_active: kalender
+  - nama: Kalender Magnetik
+    slug: kalender/kalender-magnetik
+    is_active: kalender
+  - nama: Kalender Kartu
+    slug: kalender/kalender-kartu
+    is_active: kalender
+  - nama: Kalender Meja
+    slug: kalender/kalender-meja
+    is_active: kalender
+  - nama: Kalender Duduk
+    slug: kalender/kalender-duduk
+    is_active: kalender
+  - nama: Kalender Dinding
+    slug: kalender/kalender-dinding
+    is_active: kalender
+  - nama: Kalender Dinding Lebih 1 bulan
+    slug: kalender/kalender-dinding-lebih-1-bulan
+    is_active: kalender
+  - nama: Kalender Dinding 1 Halaman 12 bulan
+    slug: kalender/kalender-dinding-1-halaman-12-bulan
+    is_active: kalender
+  - nama: Kalender Dinding 12 Bulan
+    slug: kalender/kalender-dinding-12-bulan
+    is_active: kalender
+- nama: Umbul Umbul
+  slug: umbul-umbul
+  is_active: umbul-umbul
+  sub:
+  - nama: Umbul Umbul Bendera
+    slug: umbul-umbul/umbul-umbul-bendera
+    is_active: umbul-umbul
+  - nama: Umbul Umbul Bambu
+    slug: umbul-umbul/umbul-umbul-bambu
+    is_active: umbul-umbul
+- nama: Kaos
+  slug: kaos
+  is_active: kaos
+  sub:
+  - nama: Kaos Polyester
+    slug: kaos/kaos-polyester
+    is_active: kaos
+  - nama: Kaos Polyester
+    slug: kaos/kaos-polyester
+    is_active: kaos
+  - nama: Kaos Katun Combed
+    slug: kaos/kaos-katun-combed
+    is_active: kaos
+  - nama: Kaos Polo
+    slug: kaos/kaos-polo
+    is_active: kaos
+  - nama: Kaos Polos
+    slug: kaos/kaos-polos
+    is_active: kaos
+  - nama: Kaos Katun
+    slug: kaos/kaos-katun
+    is_active: kaos
+  - nama: Kaos Pilkada
+    slug: kaos/kaos-pilkada
+    is_active: kaos
+  - nama: Kaos Pemilu
+    slug: kaos/kaos-pemilu
+    is_active: kaos
+  - nama: Kaos Bordir
+    slug: kaos/kaos-bordir
+    is_active: kaos
+  - nama: Kaos Sablon
+    slug: kaos/kaos-sablon
+    is_active: kaos
+  - nama: Kaos Event
+    slug: kaos/kaos-event
+    is_active: kaos
+- nama: Desain Grafis
+  slug: desain-grafis
+  is_active: desain-grafis
+  sub:
+  - nama: Desain Logo
+    slug: desain-grafis/desain-logo
+    is_active: desain-grafis
+  - nama: Desain Banner
+    slug: desain-grafis/desain-banner
+    is_active: desain-grafis
+  - nama: Desain Poster
+    slug: desain-grafis/desain-poster
+    is_active: desain-grafis
+  - nama: Desain Iklan
+    slug: desain-grafis/desain-iklan
+    is_active: desain-grafis
+  - nama: Desain Ucapan Selamat
+    slug: desain-grafis/desain-ucapan-selamat
+    is_active: desain-grafis
+  - nama: Desain Feed Social Media
+    slug: desain-grafis/desain-feed-social-media
+    is_active: desain-grafis
+  - nama: Desain Cover
+    slug: desain-grafis/desain-cover
+    is_active: desain-grafis
+  - nama: Desain Packaging
+    slug: desain-grafis/desain-packaging
+    is_active: desain-grafis
+  - nama: Desain Kalender
+    slug: desain-grafis/desain-kalender
+    is_active: desain-grafis
+  - nama: Desain Kaos
+    slug: desain-grafis/desain-kaos
+    is_active: desain-grafis
+  - nama: Desain Kartu Nama
+    slug: desain-grafis/desain-kartu-nama
+    is_active: desain-grafis
+  - nama: Desain Billboard
+    slug: desain-grafis/desain-billboard
+    is_active: desain-grafis
+  - nama: Desain Undangan
+    slug: desain-grafis/desain-undangan
+    is_active: desain-grafis
+  - nama: Desain Brosur
+    slug: desain-grafis/desain-brosur
+    is_active: desain-grafis
+- nama: Kartu Nama
+  slug: kartu-nama
+  is_active: kartu-nama
+  sub:
+  - nama: Kartu Nama Art Paper
+    slug: kartu-nama/kartu-nama-art-paper
+    is_active: kartu-nama
+  - nama: Kartu Nama Art Carton
+    slug: kartu-nama/kartu-nama-art-carton
+    is_active: kartu-nama
+  - nama: Kartu Nama Linen
+    slug: kartu-nama/kartu-nama-linen
+    is_active: kartu-nama
+- nama: Banner
+  slug: banner
+  is_active: banner
+  sub:
+  - nama: Roll Up Banner
+    slug: banner/roll-up-banner
+    is_active: banner
+  - nama: X Banner
+    slug: banner/x-banner
+    is_active: banner
+  - nama: Y Banner
+    slug: banner/y-banner
+    is_active: banner
+  - nama: Mini X Banner
+    slug: banner/mini-x-banner
+    is_active: banner
+- nama: Undangan
+  slug: undangan
+  is_active: undangan
+  sub:
+  - nama: Undangan Nikahan
+    slug: undangan/undangan-nikahan
+    is_active: undangan
+  - nama: Undangan Ulang tahun
+    slug: undangan/undangan-ulang-tahun
+    is_active: undangan
+  - nama: Undangan Acara
+    slug: undangan/undangan-acara
+    is_active: undangan
+  - nama: Undangan Resmi
+    slug: undangan/undangan-resmi
+    is_active: undangan
+  - nama: Undangan Nikah
+    slug: undangan/undangan-nikah
+    is_active: undangan
+  - nama: Undangan Yasin
+    slug: undangan/undangan-yasin
+    is_active: undangan
+  - nama: Undangan Pengajian
+    slug: undangan/undangan-pengajian
+    is_active: undangan
+  - nama: Undangan Khitan
+    slug: undangan/undangan-khitan
+    is_active: undangan
+- nama: Buku
+  slug: buku
+  is_active: buku
+  sub:
+  - nama: Buku Yasin
+    slug: buku/buku-yasin
+    is_active: buku
+  - nama: Buku Wisuda
+    slug: buku/buku-wisuda
+    is_active: buku
+  - nama: Buku Kenangan
+    slug: buku/buku-kenangan
+    is_active: buku
+  - nama: Buku Pelajaran
+    slug: buku/buku-pelajaran
+    is_active: buku
+  - nama: Buku PDF
+    slug: buku/buku-pdf
+    is_active: buku
+  - nama: Buku Undangan
+    slug: buku/buku-undangan
+    is_active: buku
+  - nama: Buku Tamu
+    slug: buku/buku-tamu
+    is_active: buku
+  - nama: Buku Hadiah
+    slug: buku/buku-hadiah
+    is_active: buku
+  - nama: Buku Faktur
+    slug: buku/buku-faktur
+    is_active: buku
+  - nama: Buku Pembelian
+    slug: buku/buku-pembelian
+    is_active: buku
+  - nama: Buku Akuntansi
+    slug: buku/buku-akuntansi
+    is_active: buku
+  - nama: Buku Majalah
+    slug: buku/buku-majalah
+    is_active: buku
+  - nama: Buku Tabloid
+    slug: buku/buku-tabloid
+    is_active: buku
+  - nama: Buku Koran
+    slug: buku/buku-koran
+    is_active: buku
+- nama: Brosur
+  slug: brosur
+  is_active: brosur
+  sub:
+  - nama: Brosur A6
+    slug: brosur/brosur-a6
+    is_active: brosur
+  - nama: Brosur A5
+    slug: brosur/brosur-a5
+    is_active: brosur
+  - nama: Brosur A4
+    slug: brosur/brosur-a4
+    is_active: brosur
+  - nama: Brosur A3
+    slug: brosur/brosur-a3
+    is_active: brosur
+  - nama: Brosur A3
+    slug: brosur/brosur-a3
+    is_active: brosur
+- nama: Sablon
+  slug: sablon
+  is_active: sablon
+  sub:
+  - nama: Sablon Baju
+    slug: sablon/sablon-baju
+    is_active: sablon
+  - nama: Sablon Kaos
+    slug: sablon/sablon-kaos
+    is_active: sablon
+  - nama: Sablon Gelas
+    slug: sablon/sablon-gelas
+    is_active: sablon
+  - nama: Sablon Gelas Plastik
+    slug: sablon/sablon-gelas-plastik
+    is_active: sablon
+  - nama: Sablon Korek
+    slug: sablon/sablon-korek
+    is_active: sablon
+  - nama: Sablon Tas Plastik
+    slug: sablon/sablon-tas-plastik
+    is_active: sablon
+  - nama: Sablon Tas
+    slug: sablon/sablon-tas
+    is_active: sablon
