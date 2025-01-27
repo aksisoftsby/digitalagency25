@@ -28,8 +28,15 @@
     {% include preload.html %}
     {% include header-menu.html %}
     
-    {{ content }}
-
+    <div id="smooth-wrapper">
+        <div id="smooth-content">
+            
+            {{ content }}
+            
+            {% include footer.html %}        
+        </div>
+    </div>
+    
     
        
     <!-- JS here -->
