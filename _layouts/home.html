@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% seo %}
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+        rel="stylesheet">
+
+
+    <!-- Place favicon.ico in the root directory -->
+    <link rel="shortcut icon" href="{{ site.urltheme }}/assets/imgs/favicon.ico">
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="{{ site.urltheme }}/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ site.urltheme }}/assets/css/swiper.min.css">
+    <link rel="stylesheet" href="{{ site.urltheme }}/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="{{ site.urltheme }}/assets/css/fontawesome-pro.css">
+    <link rel="stylesheet" href="{{ site.urltheme }}/assets/css/main.css">
+</head>
+
+<body>
+    {% include home/preload.html %}
+    {% include home/header-menu.html %}
+    
+    {{ content }}
+
+</body>
+
+</html>

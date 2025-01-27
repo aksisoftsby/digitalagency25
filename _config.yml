@@ -4,6 +4,8 @@ description: Digital Branding professional
 long_description: Jasa SEO, pembuatan website, backup website, SMM, Email marketing, Lead Generation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aksisoftsby.github.io/digitalagency25"
+urltheme : "https://aksisoftsby.github.io/digitalagency25/htm/dlx"
+urltheme2 : "https://aksisoftsby.github.io/digitalagency25/htm/dev/html/xtr"
 
 kontak:
   hp: 0813-3520-6389
