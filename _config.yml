@@ -5,6 +5,7 @@ long_description: Jasa SEO, pembuatan website, backup website, SMM, Email market
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aksisoftsby.github.io/digitalagency25"
 urltheme : "https://aksisoftsby.github.io/digitalagency25/htm/dlx"
+urlupload : "https://aksisoftsby.github.io/digitalagency25/htm/upload"
 urltheme2 : "https://aksisoftsby.github.io/digitalagency25/htm/dev/html/xtr"
 
 kontak:
