@@ -3,14 +3,24 @@ email: aksisoftsby@gmail.com
 description: Digital Branding professional
 long_description: Jasa SEO, pembuatan website, backup website, SMM, Email marketing, Lead Generation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://aksisoftsby.github.io/digitalagency25"
+
+### PRODUCTION
+url: https://aksisoftsby.github.io/digitalagency25
 weburl: "https://aksisoftsby.github.io/digitalagency25"
-weburls: "http://103.37.125.10:4000/"
 urltheme : "https://aksisoftsby.github.io/digitalagency25/htm/dlx"
 urlupload : "https://aksisoftsby.github.io/digitalagency25/htm/upload"
 urltheme2 : "https://aksisoftsby.github.io/digitalagency25/htm/dev/html/xtr"
-pathlocaltheme : "/htm/dlx"
-pathlocalupload : "/htm/upload"
+pathlocaltheme : "https://aksisoftsby.github.io/digitalagency25/htm/dlx"
+pathlocalupload : "https://aksisoftsby.github.io/digitalagency25/htm/upload"
+
+### DEVELOP
+# url: http://103.37.125.10:4000
+# weburl: "http://103.37.125.10:4000"
+# urltheme : "http://103.37.125.10:4000/htm/dlx"
+# urlupload : "http://103.37.125.10:4000/htm/upload"
+# urltheme2 : "http://103.37.125.10:4000/htm/dev/html/xtr"
+# pathlocaltheme : "http://103.37.125.10:4000/htm/dlx"
+# pathlocalupload : "http://103.37.125.10:4000/htm/upload"
 
 kontak:
   hp: 0813-3520-6389
